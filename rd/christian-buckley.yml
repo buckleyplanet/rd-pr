@@ -6,8 +6,29 @@ metadata:
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team.]
-tagline: Tagline1 / Tagline2 / Tagline3
+  As a Microsoft Regional Director and Office Servers & Services MVP, I have a deep background in collaboration, social and 
+  graph-based technology, supply chain, and marketing tech. I am the Founder & CEO of CollabTalk LLC, an independent research 
+  and technical marketing services firm, providing fractional-CMO services for ISVs and SIs, and through my partnership with 
+  the Marriott School of Management at Brigham Young University, I also provide research services to tech companies. 
+
+  I've been involved with SharePoint since 2005, but have been working with various social and collaboration technologies 
+  since the late 1990's, including several years consulting around project and portfolio management systems (I used to build 
+  PMOs), but more recently Azure and blockchain have been consuming more and more of my attention as this space grows.
+
+  Part of my Microsoft career was spent with the team that launched the hosted SharePoint platform, now part of Office 365 
+  and the Microsoft Teams workload, after which I spent almost a decade as a chief evangelist and chief marketing officer for 
+  several leading SharePoint ISVs and was instrumental in 2 major acquisitions. Within the community, I have helped launch 
+  and run more than a dozen annual SharePoint Saturday events across the West Coast and Canada, co-founded the Seattle chapter 
+  of IAMCP (International Association of Microsoft Channel Partners), and have been on the board of the Puget Sound (Seattle) 
+  SharePoint User Group (PSSPUG), and Utah SPUG. As an RD, I am especially interested in driving Microsoft-focused community 
+  events within Utah, including the Insider Dev Tour, Azure Bootcamps and Blockchain events, Windows Dev Boot Camps, and our 
+  annual SharePoint Saturday / Microsoft 365 Friday event.
+
+  When not working with clients or speaking at events around the world, I am an active blogger at [https://www.buckleyplanet.com] 
+  and on various communities sites, and I produce a couple series of vlogs with fellow MVPs and community members that you can 
+  find at [https://www.youtube.com/c/CollabTalk]. I'm also a HUGE 80's new wave music fan, and am obsessed with TF2 and Shadow 
+  of Mordor/War.
+tagline: Collaboration / Partner Channel / MarTech
 image:
   alt: "Christian Buckley"
   src: media/profiles/christian-buckley.jpg
